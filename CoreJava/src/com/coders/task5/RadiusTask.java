@@ -18,8 +18,8 @@ public class RadiusTask {
 	    System.out.println(num + " x 9 = " + (num * 9));
 		System.out.println(num + " x 10 = " + (num * 10));
 
-		        sc.close();
-		    }
+		sc.close();
+		}
 		
 
 	}
